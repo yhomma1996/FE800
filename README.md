@@ -1,3 +1,9 @@
 # FE800
 
-Codes for FE800 : Forecasting TimeSeries
+Codes for FE800 : Forecasting Time Series
+
+**Project Outline**
+Forecasting daily Indices/ETFs data 
+
+**Methods**
+FFORMA : Feature-based Forecasting Model Averaging
